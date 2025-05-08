@@ -4,3 +4,4 @@ setTimeout(() => {
     loader.style.transition = '1s all'
 }, 3500)
 
+
